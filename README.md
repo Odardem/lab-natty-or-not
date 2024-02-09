@@ -16,7 +16,7 @@ Foi realizada a inseção de textos  para conversão em audio
 
 Arquivos em audios para serem enviados para terceiros
 
-arquivo de exemplo: [teste_audio](lab-natty-or-not/blob/main/teste_audio.mp3)
+arquivo de exemplo: [teste_audio](lab-natty-or-not/teste_audio.mp3)
 
 
 ## 💭 Reflexão (Opcional)
