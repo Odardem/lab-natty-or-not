@@ -14,7 +14,7 @@ Foi realizada a inseção de textos  para conversão em audio
 
 ## 🚀 Resultados
 Arquivos em audios para serem enviados para terceiros
-arquivo de exemplo: [teste_audio.mp3](https://github.com/Odardem/lab-natty-or-not/blob/main/teste_audio.mp3)
+arquivo de exemplo: [teste_audio](https://github.com/Odardem/lab-natty-or-not/blob/main/teste_audio.mp3)
 
 ## 💭 Reflexão (Opcional)
 O Processo de criação em sim é bastante intuitivo, podendo ser utilizado de diversas formas, facilitando parte do trabalho que seria oneroso, fazendo com que o trabalho seja direcionado para outras partes do processo.
